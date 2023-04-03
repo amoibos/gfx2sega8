@@ -1,0 +1,1 @@
+python gfx2gg.py font.png
